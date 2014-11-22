@@ -12,11 +12,16 @@ or
 
 ## Example
 
-    bouzuya> hubot help nnh
-      hubot> hubot nnh - nnh
-
-    bouzuya> hubot nnh
-      hubot> nnh!
+    bouzuya> hubot 11/22
+      hubot> http://www.nnh.to/11/22.html
+             ボタンの日
+             大工さんの日
+             いい夫婦の日
+             回転寿司記念日
+             ペットたちに感謝する日(THANKS PETS DAY)
+             長野県りんごの日 [長野県]
+             ふるさと誕生日 [和歌山県]
+             医療安全推進週間
 
 ## Configuration
 
